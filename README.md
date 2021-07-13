@@ -1,0 +1,1 @@
+Used the dataset from https://www.kaggle.com/andrewmvd/face-mask-detection to train two models, one using fastai's cnnlearner(transfer learning) and another from scratch using pytorch and then used the model to run predictions on the faces detected in an image using mtcnn model.
